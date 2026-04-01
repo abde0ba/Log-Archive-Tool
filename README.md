@@ -1,5 +1,7 @@
 # Log Archive Tool
 
+Project URL: https://roadmap.sh/projects/log-archive-tool
+
 A small Bash-based utility for archiving `.log` files from a directory into timestamped `.tar.gz` files.
 
 This repository includes:
